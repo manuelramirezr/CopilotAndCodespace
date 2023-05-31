@@ -1,5 +1,7 @@
 # CopilotAndCodespace
 
+La idea es que este proyecto sea un ejemplo de como usar copilot y codespace para crear un proyecto de software.
+
 ## Features
 
 - [ ] Backend with NodeJS
@@ -7,5 +9,3 @@
 - [ ] Database with mongoDB
 - [ ] Deploy with Heroku
 - [ ] Test with playwright
-- [ ] Github actions to deploy on Heroku
-- [ ] Github actions to test with playwright
