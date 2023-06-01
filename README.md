@@ -5,7 +5,22 @@ La idea es que este proyecto sea un ejemplo de como usar copilot y codespace par
 ## Features
 
 - [ ] Backend with NodeJS
+  - [x] Guardado de datos
+    - [x] Nombre Apellido
+    - [x] Cédula
+    - [x] Fecha de nacimiento
+    - [x] Dirección
+    - [x] Email
+  - [ ] Devolver listado de usarios creados
 - [ ] Frontend with ReactJS
+  - [ ] Captura de datos.
+  - [ ] Dirección
+  - [ ] Nombre y apellido
+  - [ ] Cédula
+  - [ ] Fecha de nacimiento
 - [ ] Database with mongoDB
-- [ ] Deploy with Heroku
+  - [x] Crear base de datos local
+  - [x] Correr el servicio de mongoDB
+  - [ ] Probar la conexión con la base de datos
 - [ ] Test with playwright
+- [ ] Deploy with Heroku
