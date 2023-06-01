@@ -11,7 +11,7 @@ La idea es que este proyecto sea un ejemplo de como usar copilot y codespace par
     - [x] Fecha de nacimiento
     - [x] Dirección
     - [x] Email
-  - [ ] Devolver listado de usarios creados
+  - [x] Devolver listado de usarios creados
 - [ ] Frontend with ReactJS
   - [ ] Captura de datos.
   - [ ] Dirección
@@ -21,6 +21,6 @@ La idea es que este proyecto sea un ejemplo de como usar copilot y codespace par
 - [ ] Database with mongoDB
   - [x] Crear base de datos local
   - [x] Correr el servicio de mongoDB
-  - [ ] Probar la conexión con la base de datos
+  - [x] Probar la conexión con la base de datos
 - [ ] Test with playwright
 - [ ] Deploy with Heroku
